@@ -87,9 +87,21 @@
 
 <body>
   <main>
-    <h1>GiggleTales Library Privacy Policy</h1>
 
-```
+<div class="contact-box">
+  <p>
+    GiggleTales Support
+  </p>
+
+  <p>
+    <strong>For questions, technical issues, or assistance with GiggleTales, contact us at:</strong>
+    <a href="mailto:giggletaleslibrary@gmail.com">giggletaleslibrary@gmail.com</a>
+  </p>
+</div>   
+
+<h1>GiggleTales Library Privacy Policy</h1>
+
+
 <p class="effective-date">
   Effective Date: July 30, 2026
 </p>
